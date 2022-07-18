@@ -16,8 +16,4 @@ CORS(
 initializeTranslation(app)
 initializeSpeechToText(app)
 
-@app.route("/")
-def index():
-    return "index"
-
 app.run()
