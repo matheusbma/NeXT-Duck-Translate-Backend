@@ -1,0 +1,1 @@
+from .speechToText_controller import initializeSpeechToText
